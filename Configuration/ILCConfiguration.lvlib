@@ -6,7 +6,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="ILCConfig.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ILCConfig.ctl"/>
+	<Item Name="ILC.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ILC.ctl"/>
 	<Item Name="InputChannels.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/InputChannels.ctl"/>
 	<Item Name="ScanRate_Hz_Ch0Options.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ScanRate_Hz_Ch0Options.ctl"/>
 	<Item Name="ScanRate_Hz_MultichannelOptions.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ScanRate_Hz_MultichannelOptions.ctl"/>
