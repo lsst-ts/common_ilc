@@ -7,6 +7,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="ADCs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADCs.ctl"/>
+	<Item Name="ADCsInEngineeringUnits.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADCsInEngineeringUnits.ctl"/>
 	<Item Name="InputData.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/InputData.ctl"/>
 	<Item Name="LimitSwitches.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/LimitSwitches.ctl"/>
 	<Item Name="OutputData.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/OutputData.ctl"/>
