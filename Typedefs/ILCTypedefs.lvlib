@@ -6,12 +6,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="ADCs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADCs.ctl"/>
-	<Item Name="ADCSettings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADCSettings.ctl"/>
-	<Item Name="ADCsInEngineeringUnits.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADCsInEngineeringUnits.ctl"/>
-	<Item Name="DigitalOutputValues.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/DigitalOutputValues.ctl"/>
-	<Item Name="InputData.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/InputData.ctl"/>
-	<Item Name="LimitSwitches.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/LimitSwitches.ctl"/>
-	<Item Name="OutputData.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/OutputData.ctl"/>
-	<Item Name="TEDSMemory.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/TEDSMemory.ctl"/>
+	<Item Name="ADC Eng.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Eng.ctl"/>
+	<Item Name="ADC Raw.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Raw.ctl"/>
+	<Item Name="ADC Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Settings.ctl"/>
+	<Item Name="Inputs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Inputs.ctl"/>
+	<Item Name="Limit Switches.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Limit Switches.ctl"/>
+	<Item Name="Outputs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Outputs.ctl"/>
+	<Item Name="TEDS.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/TEDS.ctl"/>
 </Library>
