@@ -9,6 +9,7 @@
 	<Item Name="ADC Eng.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Eng.ctl"/>
 	<Item Name="ADC Raw.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Raw.ctl"/>
 	<Item Name="ADC Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/ADC Settings.ctl"/>
+	<Item Name="DAC Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/DAC Settings.ctl"/>
 	<Item Name="Inputs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Inputs.ctl"/>
 	<Item Name="Limit Switches.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Limit Switches.ctl"/>
 	<Item Name="Outputs.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Typedefs/Outputs.ctl"/>
