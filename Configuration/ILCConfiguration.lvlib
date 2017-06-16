@@ -6,8 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="ADC.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ADC.ctl"/>
-	<Item Name="Input Channels.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Input Channels.ctl"/>
-	<Item Name="Scan Rates.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Scan Rates.ctl"/>
+	<Item Name="ADC Collection Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ADC Collection Settings.ctl"/>
+	<Item Name="ADC Conversion Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ADC Conversion Settings.ctl"/>
+	<Item Name="DAC Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/DAC Settings.ctl"/>
 	<Item Name="Serial.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Serial.ctl"/>
 </Library>
