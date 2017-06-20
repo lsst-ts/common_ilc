@@ -9,5 +9,7 @@
 	<Item Name="ADC Collection Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ADC Collection Settings.ctl"/>
 	<Item Name="ADC Conversion Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/ADC Conversion Settings.ctl"/>
 	<Item Name="DAC Settings.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/DAC Settings.ctl"/>
+	<Item Name="Input Channels.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Input Channels.ctl"/>
+	<Item Name="Scan Rates.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Scan Rates.ctl"/>
 	<Item Name="Serial.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/ILC/Configuration/Serial.ctl"/>
 </Library>
